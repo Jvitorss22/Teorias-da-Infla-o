@@ -1,0 +1,167 @@
+---
+title: "ECONOMIA MONETÁRIA"
+author: "João Vitor da Silva Santos"
+date: "2024-09-30"
+output: 
+  html_document: 
+    toc: true
+    toc_float: true
+---
+# Teorias de Inflação, Moeda e História do Pensamento Inflacionário 
+<br>
+<br>
+
+# Pensadores 
+
+## Efeito Cantillon
+
+O **"efeito Cantillon"** refere-se a uma teoria econômica proposta pelo economista irlandês **Richard Cantillon** no século XVIII. Ele argumentava que mudanças na oferta de moeda não afetam uniformemente toda a economia, mas beneficiam os primeiros a receber essa nova moeda antes que ela se espalhe por toda a sociedade, causando aumentos de preços.
+
+<br>
+
+![Richard Cantillon](https://th.bing.com/th/id/R.6ccd134a3e7ca9afe4b731e74d7c2be0?rik=iV7In%2fGZIsOPvA&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2f5%2f50%2fJohn_Law.jpg&ehk=eLzmaBOwGFqfuvstoDpxLqGnjuawfPH8jRvqT1DqHZ0%3d&risl=&pid=ImgRaw&r=0)
+{width = 15%}
+
+<br>
+<br>
+
+## John Locke (1632–1704)
+
+Locke foi um dos primeiros a teorizar sobre a inflação em relação à quantidade de moeda em circulação. Ele argumentava que a inflação ocorria quando havia uma expansão excessiva da moeda em relação à quantidade de bens disponíveis. Para ele, a desvalorização da moeda, especialmente quando não estava mais ligada a metais preciosos como o ouro e a prata, levava ao aumento dos preços, o que prejudicava o poder de compra das pessoas.
+
+
+![](https://th.bing.com/th/id/R.704d164de1e86fbae105f8e5879d5d64?rik=bsuDLQ84K2WCOA&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2ff%2ff0%2fJohn_Locke_by_Sir_Godfrey_Kneller%2c_Bt.jpg&ehk=YGfoFqsfPOZ%2bk8lhfV35AXZ7pG%2fJFLSYqJRZY10SvFU%3d&risl=&pid=ImgRaw&r=0)
+
+<br>
+<br>
+
+## David Hume (1711–1776)
+
+Hume contribuiu para a ideia de que a inflação é o resultado de um aumento na oferta de moeda. Ele desenvolveu a teoria da "neutralidade da moeda" no longo prazo, onde um aumento na oferta monetária não afeta o crescimento econômico real, mas apenas os preços. Hume também discutiu o conceito de "fluxo de metais preciosos", observando que um influxo de ouro e prata em um país (como resultado de uma balança comercial favorável) levaria a um aumento nos preços e, portanto, à inflação.
+
+
+![](https://valuesaustralia.com/wp-content/uploads/2020/06/david-hume.jpg)
+
+<br>
+<br>
+
+## Adam Smith (1723–1790)
+
+Smith considerava a inflação como um fenômeno relacionado ao excesso de moeda em circulação em relação aos bens e serviços disponíveis. Em sua obra "A Riqueza das Nações", ele defendeu que a moeda deveria ser uma mercadoria com valor intrínseco (como o ouro e a prata) para evitar a depreciação e a inflação. Para Smith, a inflação desvalorizava a moeda e prejudicava os indivíduos com renda fixa.
+
+![](https://th.bing.com/th/id/OIP.xERtWW8Yl3_YnGE5y8P_3QHaJC?rs=1&pid=ImgDetMain)
+
+## David Ricardo (1772–1823)
+
+Ricardo acreditava que a inflação era causada pelo excesso de emissão de papel-moeda sem o correspondente lastro em metais preciosos (como o ouro). Ele argumentou que, quando o governo emitia mais papel-moeda do que a quantidade de ouro em reserva, isso levava a um aumento dos preços, resultando em inflação. Ricardo defendia o padrão-ouro como uma maneira de estabilizar a moeda e controlar a inflação.
+
+
+![](https://www.hetwebsite.net/het/profiles/image/ricardo.jpg)
+
+## Irving Fisher (1867–1947)
+
+Fisher foi um dos primeiros economistas a desenvolver uma teoria quantitativa da moeda, que liga diretamente a oferta de moeda à inflação. Sua famosa equação MV = PQ (onde M é a quantidade de moeda, V é a velocidade de circulação da moeda, P é o nível de preços e Q é o volume de bens e serviços) propunha que um aumento na quantidade de moeda (M) levaria a um aumento nos preços (P), desde que a produção (Q) permanecesse constante. Fisher também analisou a deflação por dívida, destacando que crises econômicas poderiam ser exacerbadas pela queda nos preços e no valor dos ativos.
+
+<br>
+
+![](https://www.hetwebsite.net/het/profiles/image/fisher.jpg)
+
+## John Maynard Keynes (1883–1946)
+
+Keynes acreditava que a inflação era um problema principalmente em períodos de pleno emprego, quando a demanda agregada excedia a oferta. Ele argumentou que o aumento da demanda poderia ser benéfico em tempos de recessão, estimulando a produção e o emprego, mas poderia se tornar inflacionário quando a economia estivesse operando em plena capacidade. Keynes acreditava que o governo deveria controlar a demanda agregada por meio de políticas fiscais e monetárias para evitar tanto a inflação quanto o desemprego.
+
+![](https://th.bing.com/th/id/OIP.345gPHOJ4BIK4jadSr_qYQHaEU?rs=1&pid=ImgDetMain)
+
+<br>
+
+
+## Milton Friedman (1912–2006)
+
+Friedman é conhecido por sua afirmação de que "a inflação é sempre e em toda parte um fenômeno monetário". Ele argumentou que a inflação era causada por um aumento na oferta de moeda que excedia o crescimento econômico. Friedman foi um dos principais defensores do monetarismo, uma escola de pensamento que enfatiza o controle da oferta de moeda como a chave para gerenciar a inflação. Ele criticava políticas que tentavam combater a inflação por meio de controles de preços, defendendo que o controle da inflação dependia do controle do crescimento da moeda.
+
+![](https://th.bing.com/th/id/R.313becad72eeabde51ef2f286d95233c?rik=kmTbUsoUpsFhTQ&riu=http%3a%2f%2flpmaryland.org%2fwp-content%2fuploads%2f2014%2f03%2fMilton-Friedman.jpg&ehk=CcYzp3CfkXdMeYcTCDeif1kJW0aqN9zbNUS5vm4%2f6I8%3d&risl=&pid=ImgRaw&r=0)
+
+<br>
+
+
+## Friedrich Hayek (1899–1992)
+
+Hayek, da Escola Austríaca, via a inflação como o resultado de uma expansão monetária artificial, particularmente em períodos de intervenção estatal no mercado. Ele argumentava que a expansão do crédito e da moeda por parte dos bancos centrais distorcia os sinais de preços, levando a um "boom" econômico artificial, seguido de uma crise ("bust") quando a inflação subisse ou o crédito se contraísse. Hayek defendia uma política monetária restritiva e menos intervenção governamental para evitar essas distorções e seus efeitos inflacionários.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Friedrich_Hayek_portrait.jpg/440px-Friedrich_Hayek_portrait.jpg)
+<br>
+
+
+## Ludwig von Mises (1881–1973)
+
+Mises, outro expoente da Escola Austríaca, argumentava que a inflação é uma expansão artificial da oferta monetária, geralmente promovida por governos ou bancos centrais. Ele acreditava que a inflação criava bolhas econômicas e distorcia os investimentos, levando a ciclos de expansão e recessão. Para Mises, a inflação era uma forma de imposto oculto, pois corroía o poder de compra do dinheiro, especialmente para as pessoas com rendas fixas.
+
+![](https://th.bing.com/th/id/OIP.c0hEFF_fkEG6VJsyyTUBPwHaGo?rs=1&pid=ImgDetMain)
+
+<br>
+
+## Robert Lucas (1937–2023)
+
+Lucas, um dos principais economistas da Escola de Expectativas Racionais, desafiou a visão keynesiana tradicional sobre a inflação. Ele argumentou que, em vez de ser surpreendida pela inflação, a população ajusta suas expectativas com base nas políticas do governo. Assim, as tentativas de estimular a economia por meio de expansão monetária apenas levariam à inflação sem ganhos duradouros em termos de emprego. Lucas acreditava que a política monetária só teria efeito se fosse inesperada, pois os agentes econômicos se ajustariam rapidamente às mudanças nas políticas.
+
+![](https://www.kidpaw.com/data/people/american/kidpaw-robert-lucas-jr.-5396.jpg)
+
+
+
+<br>
+<br>
+
+# Teorias 
+
+## Teoria Monetária Moderna (MMT)
+
+A Teoria Monetária Moderna (MMT) propõe que governos que emitem sua própria moeda (como o Brasil com o real) não enfrentam os mesmos limites financeiros que indivíduos ou empresas. Segundo a MMT, o governo pode criar dinheiro para financiar seus gastos sem a necessidade de arrecadar impostos ou tomar empréstimos. O verdadeiro limite para os gastos governamentais não é o déficit ou a dívida, mas sim a inflação.
+
+Os impostos, nessa visão, servem principalmente para controlar a inflação e redistribuir riqueza, e não para "financiar" o governo. A MMT também sugere a criação de um Programa de Emprego Garantido para assegurar o pleno emprego e estabilizar a economia. Embora a MMT tenha ganhado apoio em certos círculos, ela enfrenta críticas, especialmente por temores de que possa gerar inflação descontrolada se mal implementada.
+
+<br>
+
+## Inflação Inercial
+A **inflação inercial** ocorre quando a inflação persiste ao longo do tempo devido a expectativas e reajustes automáticos de preços e salários, baseados na inflação passada. Mesmo sem novos choques econômicos, a inflação continua porque trabalhadores pedem aumentos salariais para compensar a perda de poder de compra, e empresas aumentam os preços para cobrir esses custos. Esse ciclo se retroalimenta, dificultando a queda da inflação. No Brasil, a inflação inercial foi um problema nos anos 1980 e 1990, resolvido em parte com o **Plano Real**, que quebrou a indexação automática de preços.
+
+
+<br>
+
+## Curva de Phillips 
+A Curva de Phillips representa a relação inversa entre a taxa de desemprego e a taxa de inflação em uma economia. Originalmente proposta por A.W. Phillips em 1958, a curva sugere que quando o desemprego é baixo, a inflação tende a ser alta, e vice-versa.
+
+```{r, echo =FALSE, warning=FALSE}
+# Instalação do pacote ggplot2 (caso não esteja instalado)
+# install.packages("ggplot2")
+
+# Carregar a biblioteca ggplot2
+library(ggplot2)
+
+# Definir a semente para reprodutibilidade
+set.seed(123)
+
+# Criar 200 observações para a taxa de desemprego (entre 3% e 10%)
+taxa_desemprego <- runif(200, min = 3, max = 10)
+
+# Criar a inflação de acordo com a relação inversa
+inflacao <- 4.5 - 0.3 * taxa_desemprego + rnorm(200, mean = 0, sd = 0.5)
+
+# Criar um data frame com os dados
+data <- data.frame(
+  Observacao = 1:200,
+  Taxa_Desemprego = taxa_desemprego,
+  Inflacao = inflacao
+)
+
+# Criar o gráfico usando ggplot2
+ggplot(data, aes(x = Taxa_Desemprego, y = Inflacao)) +
+  geom_point(size = 2, color = "blue", alpha = 0.6) + # Pontos
+  geom_smooth(method = "lm", color = "red", size = 1) + # Linha de tendência
+  labs(title = "Curva de Phillips: Relação entre Inflação e Desemprego",
+       x = "Taxa de Desemprego (%)",
+       y = "Inflação (%)") +
+  theme_minimal()
+
+
+```
+
